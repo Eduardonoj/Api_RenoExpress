@@ -1,0 +1,17 @@
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\bin\Debug\netcoreapp2.1\Api_RenoExpress.deps.json
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\bin\Debug\netcoreapp2.1\Api_RenoExpress.runtimeconfig.json
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\bin\Debug\netcoreapp2.1\Api_RenoExpress.runtimeconfig.dev.json
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\bin\Debug\netcoreapp2.1\Api_RenoExpress.dll
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\bin\Debug\netcoreapp2.1\Api_RenoExpress.pdb
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.csprojAssemblyReference.cache
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.AssemblyInfoInputs.cache
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.AssemblyInfo.cs
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.csproj.CoreCompileInputs.cache
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.RazorAssemblyInfo.cache
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.RazorAssemblyInfo.cs
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.RazorTargetAssemblyInfo.cache
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.dll
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.pdb
+C:\Users\J053_\source\repos\Api_RenoExpress\Api_RenoExpress\obj\Debug\netcoreapp2.1\Api_RenoExpress.genruntimeconfig.cache
